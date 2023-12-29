@@ -1,16 +1,16 @@
-<h1>Hi, I'm Sunny! <br/>
-
-<h2>👨‍💻 Data Analyst Projects:</h2>
-<br>King County Housing Sales</br>
+# Hi, I'm Sunny!
+## 👨‍💻 Data Analyst Projects:
+- King County Housing Sales
   - [Python Multiple Linear Regression and Tableau Dashboard](https://github.com/Sunny-Lai/KingCountySales)
-- <br>Flu Shot Dashboard</br>
+- Flu Shot Dashboard
   - [PostgreSQL and Tableau Dashboard](https://github.com/Sunny-Lai/FluShotDashboard)
-  - <br>Human Resources Dashboard</br>
+- Human Resources Dashboard
   - [SQL Server Managment Studio and Power BI](https://github.com/Sunny-Lai/HRDashboard)
-<h2>Certifications and Education</h2>
+## Certifications and Education
 - Masters of Science in Data Analytics - Western Governors University
-<br>- Bachelors of Science in Nursing - Minnesota State University</br>
-<h2> 🤳 Connect with me:</h2>
+- Network Development Engineer Bootcamp - TLG Learning
+- Bachelors of Science in Nursing - Minnesota State University
+## 🤳 Connect with me:
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
