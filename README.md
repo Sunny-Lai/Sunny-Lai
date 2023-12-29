@@ -1,7 +1,8 @@
 <h1>Hi, I'm Sunny! <br/>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
-
+- <b>King County Housing Sales</b>
+  - [Python Multiple Linear Regression and Tableau Dashboard](https://github.com/Sunny-Lai/KingCountySales)
 
 <h2>Certifications and Education</h2>
 
