@@ -6,7 +6,7 @@
   - [PostgreSQL and Tableau Dashboard](https://github.com/Sunny-Lai/FluShotDashboard)
 - Human Resources Dashboard
   - [SQL Server Managment Studio and Power BI](https://github.com/Sunny-Lai/HRDashboard)
-## Certifications and Education
+## 📖 Certifications and Education
 - Masters of Science in Data Analytics - Western Governors University
 - Network Development Engineer Bootcamp - TLG Learning
 - Bachelors of Science in Nursing - Minnesota State University
