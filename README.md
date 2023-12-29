@@ -1,9 +1,12 @@
 <h1>Hi, I'm Sunny! <br/>
 
 <h2>👨‍💻 Data Analyst Projects:</h2>
-- <b>King County Housing Sales</b>
+<br>King County Housing Sales</br>
   - [Python Multiple Linear Regression and Tableau Dashboard](https://github.com/Sunny-Lai/KingCountySales)
-
+- <br>Flu Shot Dashboard</br>
+  - [PostgreSQL and Tableau Dashboard](https://github.com/Sunny-Lai/FluShotDashboard)
+  - <br>Human Resources Dashboard</br>
+  - [SQL Server Managment Studio and Power BI](https://github.com/Sunny-Lai/HRDashboard)
 <h2>Certifications and Education</h2>
 
 <h2> 🤳 Connect with me:</h2>
