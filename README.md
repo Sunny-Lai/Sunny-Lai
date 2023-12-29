@@ -1,4 +1,5 @@
 # Hi, I'm Sunny!
+With a profound blend of academic rigor, hands-on expertise, and a passion for leveraging data insights, I am a dedicated data analyst armed with a Master's degree in Data Analytics from Western Governors University and a distinguished tenure as a US Army Veteran. My journey into the realm of data commenced with a fascination for machine learning models, igniting my pursuit of understanding the transformative potential inherent in data analysis and interpretation.
 ## 👨‍💻 Data Analyst Projects:
 - King County Housing Sales
   - [Python Multiple Linear Regression and Tableau Dashboard](https://github.com/Sunny-Lai/KingCountySales)
