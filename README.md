@@ -8,7 +8,8 @@
   - <br>Human Resources Dashboard</br>
   - [SQL Server Managment Studio and Power BI](https://github.com/Sunny-Lai/HRDashboard)
 <h2>Certifications and Education</h2>
-
+- Masters of Science in Data Analytics - Western Governors University
+<br>- Bachelors of Science in Nursing - Minnesota State University</br>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
