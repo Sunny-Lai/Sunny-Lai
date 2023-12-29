@@ -11,8 +11,7 @@
 - Network Development Engineer Bootcamp - TLG Learning
 - Bachelors of Science in Nursing - Minnesota State University
 ## 🤳 Connect with me:
-
-[linkedin]: www.linkedin.com/in/laisunny
+- Linkedin: [@laisunny](www.linkedin.com/in/laisunny)
 
 <!--
 
