@@ -14,6 +14,8 @@ With a profound blend of academic rigor, hands-on expertise, and a passion for l
 ## 📖 Education
 - Masters of Science in Data Analytics - Western Governors University
 - Network Development Engineer Bootcamp - TLG Learning
+  - CompTIA Network+ Certification
+  - AWS Cloud Practitioner Certification
 - Bachelors of Science in Nursing - Minnesota State University
 ## 🤳 Connect with me:
 - Linkedin: [@laisunny](www.linkedin.com/in/laisunny)
