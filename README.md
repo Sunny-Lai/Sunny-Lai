@@ -7,7 +7,7 @@ With a profound blend of academic rigor, hands-on expertise, and a passion for l
   - [PostgreSQL and Tableau Dashboard](https://github.com/Sunny-Lai/FluShotDashboard)
 - Human Resources Dashboard
   - [SQL Server Managment Studio and Power BI](https://github.com/Sunny-Lai/HRDashboard)
-- M.S. in Data Analytics Projects:
+- M.S. in Data Analytics [Portfolio](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main):
   - [Forecasting Hospital Readmissions: A KNN Classification Analysis](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main/KNN_Classification)
   - [Prescription Medication Interrelations: A Market Basket Analysis](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main/Market_Basket_Analysis)
   - [Unraveling Sentiment Patterns: A Recurrent Neural Network Analysis](https://github.com/Sunny-Lai/MSDA_Portfolio/tree/main/Recurrent_Neural_Network)
